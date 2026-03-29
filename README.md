@@ -4,11 +4,13 @@ Este é o HUB principal de organização do meu ambiente digital.
 
 ## Estrutura
 
-- 01_Projetos → Projetos ativos
-- 02_ISOs → Imagens de sistemas
-- 03_Softwares → Instaladores e portáteis
-- 04_Midia → Fotos, vídeos, audiobooks
-- 05_Documentos → Arquivos importantes
-- 06_Backups → Backups gerais
-- 07_Scripts → Scripts de automação
-- 99_ADMIN → Configurações internas
+* 01\_Projetos → Projetos ativos
+* 02\_ISOs → Imagens de sistemas
+* 03\_Softwares → Instaladores e portáteis
+* 04\_Midia → Fotos, vídeos, audiobooks
+* 05\_Documentos → Arquivos importantes
+* 06\_Backups → Backups gerais
+* 07\_Scripts → Scripts de automação
+* 99\_ADMIN → Configurações internas
+* alterei aqui
+
